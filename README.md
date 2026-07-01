@@ -83,3 +83,12 @@ Screenshot_Conversion_Result.png
 ### Invalid Input:
 
 Screenshot_Invalid_Input.png
+
+## Issues:
+
+* Supports only a limited number of unit conversions.
+* No option to copy or save conversion results.
+* Does not maintain a history of previous conversions.
+* Only accepts numerical input values.
+* Conversion factors are hardcoded into the application.
+* Does not support scientific notation or very large numerical values.
