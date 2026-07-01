@@ -1,2 +1,5 @@
-# Python_Unit_Converter_Tool
-The scope of this project is to provide a simple and user-friendly desktop application for converting commonly used units of measurement.
+# Intern Details:
+
+*Intern ID:* CITS1691
+*Full Name:* Shashath.B.S
+*No.Of Weeks:* 4 Weeks
