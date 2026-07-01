@@ -51,3 +51,17 @@ This project helps users perform everyday unit conversions quickly and accuratel
 * Accepts numerical values for conversion.
 * Displays an error message when invalid input is entered.
 * Prevents application crashes caused by incorrect user input.
+
+## Modules Used:
+
+### Tkinter
+
+Used for creating the graphical user interface.
+
+https://docs.python.org/3/library/tkinter.html
+
+### Sys
+
+Used for detecting the operating system and setting an appropriate application window size.
+
+https://docs.python.org/3/library/sys.html
