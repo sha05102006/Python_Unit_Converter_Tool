@@ -26,3 +26,28 @@ The Python script attached in this repository can perform functions such as:
 * Automatically adjusting the application window size based on the operating system.
 
 This project helps users perform everyday unit conversions quickly and accurately without requiring manual calculations.
+
+## Features:
+
+### Unit Conversion
+
+* Convert Kilometer (km) to Miles (mi).
+* Convert Miles (mi) to Kilometer (km).
+* Convert Kilogram (kg) to Pounds (lbs).
+* Convert Pounds (lbs) to Kilogram (kg).
+* Convert Fahrenheit (°F) to Celsius (°C).
+* Convert Celsius (°C) to Fahrenheit (°F).
+
+### Graphical User Interface
+
+* Built using Python Tkinter.
+* Simple and intuitive interface.
+* Dropdown menu for selecting conversion types.
+* Single input field for entering values.
+* Instant display of conversion results.
+
+### Input Validation
+
+* Accepts numerical values for conversion.
+* Displays an error message when invalid input is entered.
+* Prevents application crashes caused by incorrect user input.
